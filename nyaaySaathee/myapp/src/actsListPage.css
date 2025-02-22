@@ -1,0 +1,89 @@
+.acts-container {
+    background-color: rgb(137, 110, 61); /* Maintains previous theme */
+    width: 100vw;
+    min-height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Container for the list */
+.acts-list-container {
+    width: 100vw;
+    min-height: 100vh;
+    margin: 20px auto;
+    text-align: center;
+    background: rgba(168, 147, 56, 0.9); /* Light background for readability */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Search Bar */
+.search-bar {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 2px solid rgb(107, 80, 42);
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+    background-color: #f8f5f1;
+    color: rgb(64, 42, 19);
+    transition: 0.3s;
+}
+
+.search-bar:focus {
+    border-color: rgb(64, 42, 19);
+    background-color: #fff;
+}
+
+/* List of acts */
+.acts-list {
+    list-style: none;
+    padding: 0;
+    width: 100%;
+}
+
+/* Individual act items */
+.act-item {
+    padding: 15px;
+    border: 2px solid rgb(107, 80, 42);
+    margin-bottom: 10px;
+    border-radius: 8px;
+    background-color: rgb(204, 173, 127); /* Similar warm tone */
+    color: rgb(64, 42, 19);
+    transition: 0.3s;
+}
+
+.act-item:hover {
+    background-color: rgb(187, 157, 114);
+    transform: scale(1.02);
+}
+
+/* Act title */
+.act-item h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+/* Act abbreviation */
+.act-item p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: rgb(55, 43, 2); /* Change to any color you want */
+}
+
+
+/* No results message */
+.no-results {
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(64, 42, 19);
+    background: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+}

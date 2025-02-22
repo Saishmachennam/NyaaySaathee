@@ -1,0 +1,12 @@
+.officials-homepage-container{
+    background-image: url("https://res.cloudinary.com/daftefhtt/image/upload/v1739993174/xl8dzcz21mjysgazk8rk.jpg");
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+}
+
+.officials-header{
+    height:8vh;
+    width:100vw;
+    padding:10px;
+}

@@ -1,0 +1,63 @@
+.header-container {
+    position: fixed;  /* Keeps the header fixed at the top */
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 2%; /* Reduced padding to decrease height */
+    background: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000; /* Ensures it stays on top */
+    min-height: 20px; /* Adjust this value as needed */
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo-title-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-header {
+    height: 85px;
+    width: auto;
+    margin-right: 5px;
+}
+
+.header-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    padding-top: 30px; 
+}
+
+.nav-links {
+    display: flex;
+    gap: 30px;
+}
+
+.nav-item {
+    font-size: 1rem;
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    padding: 5px 20px;
+}
+
+.nav-item:hover {
+    background-color: black;
+    color: yellow;
+    border-radius: 5px;
+}
+
+/* Prevents content from overlapping the navbar */
+

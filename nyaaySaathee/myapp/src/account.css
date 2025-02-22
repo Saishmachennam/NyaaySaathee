@@ -1,0 +1,38 @@
+.account-container {
+    max-width: 500px;
+    margin: 180px auto;
+    padding: 20px;
+    background: #9a7c40;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.account-container h2 {
+    color: #d3cb2c;
+}
+
+.account-details {
+    font-size: 16px;
+    color: #fff;
+    margin-top: 50px;
+}
+
+.account-details p {
+    margin: 10px 0;
+}
+
+.logout-button {
+    background: #c1c063;
+    color: #000;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s;
+}
+
+.logout-button:hover {
+    background: #d3cb2c;
+}

@@ -1,0 +1,98 @@
+/* Search bar container (Ensures it's at the top & centered) */
+.search-bar-container {
+    width: 100%;
+    display: flex;
+    justify-content: center; /* Centers the search bar */
+    margin-bottom: 20px; /* Creates space before judgments */
+}
+
+/* Search bar styling */
+.search-bar {
+    width: 60%; 
+    height:40px;         /* Responsive width */
+    max-width: 500px;    /* Prevents excessive stretching */
+    padding: 12px;       /* Comfortable padding */
+    
+    /* Border styling */
+    border: 2px solid #aaa;
+    border-radius: 8px;
+
+    /* Text properties */
+    font-size: 16px;
+    text-align: center;
+
+    /* Box styling */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+    /* Smooth transition effect */
+    transition: all 0.3s ease-in-out;
+}
+
+/* Container for judgment items (Now starts from the next line) */
+.judgement-list-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Space between cards */
+    padding: 20px;
+    justify-content: center; /* Centers the grid */
+    align-items: stretch; /* Ensures equal height */
+    clear: both; /* Makes sure it starts from a new line */
+    margin-left:50px;
+}
+
+/* Individual judgment card styling */
+.judgement-item {
+    background: #9a7c40;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    min-height: 200px; /* Ensures all items have the same height */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Uniform spacing inside */
+}
+.list-items{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Three per row */
+    gap: 20px; /* Space between cards */
+    padding: 20px;
+    justify-content: center; /* Centers the grid */
+    align-items: stretch; /* Ensures equal height */
+    clear: both;
+}
+/* Hover effect */
+.judgement-item:hover {
+    transform: translateY(-5px);
+}
+
+/* Case details styling */
+.case-number {
+    font-size: 18px;
+    font-weight: bold;
+    color: #d3cb2c;
+}
+
+.judge, .decision-date, .disposal-nature, .headnotes, .decision {
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+strong {
+    color: #c1c063;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 1024px) {
+    .judgement-list-container {
+        grid-template-columns: repeat(2, 1fr); /* Two per row on tablets */
+    }
+}
+
+@media (max-width: 768px) {
+    .judgement-list-container {
+        grid-template-columns: repeat(1, 1fr); /* Single column on small screens */
+    }
+}

@@ -1,0 +1,501 @@
+ACTS,Cases_count,Case_Category,State,ShortExplanationOfAct,ShortExplanationOfCase
+"Information Technology Act, 2000",324,Banking Fraud,Punjab,Addresses cybercrimes and electronic transactions.,Covers cases of loan defaults and financial misrepresentation.
+"Protection of Women from Domestic Violence Act, 2005",417,Cybercrime,Maharashtra,Provides protection and legal recourse for domestic abuse victims.,"Covers hacking, identity theft, and online fraud cases."
+"Motor Vehicles Act, 1988",7,Contractual,Gujarat,"Regulates motor vehicle laws, accidents, and compensation.",Addresses breach of contract and non-performance issues.
+"Banking Regulation Act, 1949",249,Business Law,Uttar Pradesh,Governs banking policies and financial transactions.,Concerns legal regulations for business operations.
+"Consumer Protection Act, 2019",48,Business Law,Kerala,Protects consumer rights and addresses unfair trade practices.,Concerns legal regulations for business operations.
+"Right to Information Act, 2005",213,Cybercrime,Telangana,Grants citizens access to government records and transparency.,"Covers hacking, identity theft, and online fraud cases."
+"Consumer Protection Act, 2019",364,Consumer Dispute,Kerala,Protects consumer rights and addresses unfair trade practices.,Concerns cases of defective products and unfair trade practices.
+"Banking Regulation Act, 1949",428,Juvenile Crime,Delhi,Governs banking policies and financial transactions.,Covers criminal offenses committed by minors.
+"Civil Procedure Code, 1908",30,Criminal,Haryana,Governs civil litigation and procedures in Indian courts.,"Involves crimes such as theft, assault, and fraud."
+"Consumer Protection Act, 2019",437,Criminal,Uttar Pradesh,Protects consumer rights and addresses unfair trade practices.,"Involves crimes such as theft, assault, and fraud."
+"Right to Information Act, 2005",456,Religious Law,Delhi,Grants citizens access to government records and transparency.,Concerns legal matters governed by personal laws of different religions.
+"Information Technology Act, 2000",383,Corporate,Madhya Pradesh,Addresses cybercrimes and electronic transactions.,Involves legal matters related to businesses and trade practices.
+"Hindu Marriage Act, 1955",189,Taxation,Punjab,"Regulates marriage, divorce, and inheritance in Hindu families.","Covers disputes regarding income tax, GST, and corporate taxation."
+"Hindu Marriage Act, 1955",33,Motor Accident,Tamil Nadu,"Regulates marriage, divorce, and inheritance in Hindu families.",Involves compensation claims for road accident victims.
+"Contract Act, 1872",366,Environmental Violation,Haryana,Governs contractual agreements and breach of contract cases.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Environment Protection Act, 1986",479,Environmental,Kerala,Lays down guidelines for environmental protection and pollution control.,Deals with violations of environmental laws and pollution control.
+"Factories Act, 1948",239,Anti-Corruption,Telangana,Ensures worker safety and regulates factory labor laws.,Involves bribery and misuse of power in government offices.
+"Environment Protection Act, 1986",14,Labor Dispute,Jharkhand,Lays down guidelines for environmental protection and pollution control.,Concerns workplace disputes between employees and employers.
+"Consumer Protection Act, 2019",36,Labor Dispute,Rajasthan,Protects consumer rights and addresses unfair trade practices.,Concerns workplace disputes between employees and employers.
+"Prevention of Corruption Act, 1988",232,RTI Cases,Jharkhand,Deals with bribery and corruption among public officials.,Involves cases where public authorities deny access to information.
+"Arbitration and Conciliation Act, 1996",161,Arbitration,Haryana,Regulates arbitration for dispute resolution outside courts.,Settles disputes outside courts through mutual agreement.
+"Muslim Personal Law (Shariat) Application Act, 1937",80,Taxation,Karnataka,Applies Islamic laws to Muslim personal matters.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Civil Procedure Code, 1908",8,Contractual,Assam,Governs civil litigation and procedures in Indian courts.,Addresses breach of contract and non-performance issues.
+"National Green Tribunal Act, 2010",84,Banking Fraud,Odisha,Establishes special courts for environmental disputes.,Covers cases of loan defaults and financial misrepresentation.
+"Prevention of Corruption Act, 1988",348,Domestic Violence,Madhya Pradesh,Deals with bribery and corruption among public officials.,"Deals with physical, emotional, and financial abuse in families."
+"Indian Penal Code, 1860",304,Corporate,Uttar Pradesh,Defines criminal offenses and penalties in India.,Involves legal matters related to businesses and trade practices.
+"Right to Information Act, 2005",222,Criminal,Odisha,Grants citizens access to government records and transparency.,"Involves crimes such as theft, assault, and fraud."
+"Consumer Protection Act, 2019",92,RTI Cases,Telangana,Protects consumer rights and addresses unfair trade practices.,Involves cases where public authorities deny access to information.
+"Contract Act, 1872",450,Banking Fraud,Karnataka,Governs contractual agreements and breach of contract cases.,Covers cases of loan defaults and financial misrepresentation.
+"Protection of Women from Domestic Violence Act, 2005",247,Civil,Karnataka,Provides protection and legal recourse for domestic abuse victims.,"Deals with disputes related to property, contracts, and defamation."
+"Motor Vehicles Act, 1988",492,Family Law,Odisha,"Regulates motor vehicle laws, accidents, and compensation.","Handles disputes related to marriage, divorce, and custody."
+"Hindu Marriage Act, 1955",412,Corporate,Rajasthan,"Regulates marriage, divorce, and inheritance in Hindu families.",Involves legal matters related to businesses and trade practices.
+"Contract Act, 1872",34,Taxation,Tamil Nadu,Governs contractual agreements and breach of contract cases.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Right to Information Act, 2005",209,Domestic Violence,Punjab,Grants citizens access to government records and transparency.,"Deals with physical, emotional, and financial abuse in families."
+"Environment Protection Act, 1986",139,Consumer Dispute,Rajasthan,Lays down guidelines for environmental protection and pollution control.,Concerns cases of defective products and unfair trade practices.
+"Juvenile Justice Act, 2015",411,Anti-Corruption,Punjab,Defines legal provisions for minors involved in crimes.,Involves bribery and misuse of power in government offices.
+"National Green Tribunal Act, 2010",293,Domestic Violence,Assam,Establishes special courts for environmental disputes.,"Deals with physical, emotional, and financial abuse in families."
+"Indian Penal Code, 1860",398,Labor Dispute,Kerala,Defines criminal offenses and penalties in India.,Concerns workplace disputes between employees and employers.
+"Motor Vehicles Act, 1988",121,Civil,Odisha,"Regulates motor vehicle laws, accidents, and compensation.","Deals with disputes related to property, contracts, and defamation."
+"Juvenile Justice Act, 2015",105,Criminal,Karnataka,Defines legal provisions for minors involved in crimes.,"Involves crimes such as theft, assault, and fraud."
+"Motor Vehicles Act, 1988",306,Labor Dispute,Uttarakhand,"Regulates motor vehicle laws, accidents, and compensation.",Concerns workplace disputes between employees and employers.
+"Indian Penal Code, 1860",468,Environmental Violation,Maharashtra,Defines criminal offenses and penalties in India.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Income Tax Act, 1961",124,Civil,Chhattisgarh,Regulates taxation on income earned in India.,"Deals with disputes related to property, contracts, and defamation."
+"Information Technology Act, 2000",377,Civil,Gujarat,Addresses cybercrimes and electronic transactions.,"Deals with disputes related to property, contracts, and defamation."
+"Environment Protection Act, 1986",435,Motor Accident,Assam,Lays down guidelines for environmental protection and pollution control.,Involves compensation claims for road accident victims.
+"Indian Penal Code, 1860",99,Cybercrime,Maharashtra,Defines criminal offenses and penalties in India.,"Covers hacking, identity theft, and online fraud cases."
+"Hindu Marriage Act, 1955",23,Cybercrime,Tamil Nadu,"Regulates marriage, divorce, and inheritance in Hindu families.","Covers hacking, identity theft, and online fraud cases."
+"Banking Regulation Act, 1949",494,Anti-Corruption,Kerala,Governs banking policies and financial transactions.,Involves bribery and misuse of power in government offices.
+"Protection of Women from Domestic Violence Act, 2005",484,Civil,Delhi,Provides protection and legal recourse for domestic abuse victims.,"Deals with disputes related to property, contracts, and defamation."
+"National Green Tribunal Act, 2010",328,Contractual,Uttarakhand,Establishes special courts for environmental disputes.,Addresses breach of contract and non-performance issues.
+"National Green Tribunal Act, 2010",485,Motor Accident,Bihar,Establishes special courts for environmental disputes.,Involves compensation claims for road accident victims.
+"Hindu Marriage Act, 1955",124,Business Law,Tamil Nadu,"Regulates marriage, divorce, and inheritance in Hindu families.",Concerns legal regulations for business operations.
+"Right to Information Act, 2005",418,Contractual,Bihar,Grants citizens access to government records and transparency.,Addresses breach of contract and non-performance issues.
+"Banking Regulation Act, 1949",376,Civil,Delhi,Governs banking policies and financial transactions.,"Deals with disputes related to property, contracts, and defamation."
+"Hindu Marriage Act, 1955",435,Banking Fraud,Maharashtra,"Regulates marriage, divorce, and inheritance in Hindu families.",Covers cases of loan defaults and financial misrepresentation.
+"Criminal Procedure Code, 1973",283,Environmental Violation,Kerala,Lays down the procedure for criminal trials and investigations.,"Involves pollution, illegal deforestation, and climate-related cases."
+"National Green Tribunal Act, 2010",307,Civil,Delhi,Establishes special courts for environmental disputes.,"Deals with disputes related to property, contracts, and defamation."
+"Civil Procedure Code, 1908",10,Religious Law,Tamil Nadu,Governs civil litigation and procedures in Indian courts.,Concerns legal matters governed by personal laws of different religions.
+"Criminal Procedure Code, 1973",286,RTI Cases,Kerala,Lays down the procedure for criminal trials and investigations.,Involves cases where public authorities deny access to information.
+"Prevention of Corruption Act, 1988",176,Arbitration,West Bengal,Deals with bribery and corruption among public officials.,Settles disputes outside courts through mutual agreement.
+"Contract Act, 1872",27,Consumer Dispute,Maharashtra,Governs contractual agreements and breach of contract cases.,Concerns cases of defective products and unfair trade practices.
+"Motor Vehicles Act, 1988",302,Environmental Violation,Uttarakhand,"Regulates motor vehicle laws, accidents, and compensation.","Involves pollution, illegal deforestation, and climate-related cases."
+"Protection of Women from Domestic Violence Act, 2005",409,Environmental,Uttarakhand,Provides protection and legal recourse for domestic abuse victims.,Deals with violations of environmental laws and pollution control.
+"Civil Procedure Code, 1908",217,Environmental,Rajasthan,Governs civil litigation and procedures in Indian courts.,Deals with violations of environmental laws and pollution control.
+"Protection of Women from Domestic Violence Act, 2005",87,Contractual,Uttar Pradesh,Provides protection and legal recourse for domestic abuse victims.,Addresses breach of contract and non-performance issues.
+"Motor Vehicles Act, 1988",427,Corporate,Bihar,"Regulates motor vehicle laws, accidents, and compensation.",Involves legal matters related to businesses and trade practices.
+"Civil Procedure Code, 1908",440,Anti-Corruption,Maharashtra,Governs civil litigation and procedures in Indian courts.,Involves bribery and misuse of power in government offices.
+"Criminal Procedure Code, 1973",127,Religious Law,Chhattisgarh,Lays down the procedure for criminal trials and investigations.,Concerns legal matters governed by personal laws of different religions.
+"Consumer Protection Act, 2019",136,Juvenile Crime,Rajasthan,Protects consumer rights and addresses unfair trade practices.,Covers criminal offenses committed by minors.
+"Income Tax Act, 1961",229,Motor Accident,Jharkhand,Regulates taxation on income earned in India.,Involves compensation claims for road accident victims.
+"Juvenile Justice Act, 2015",114,Anti-Corruption,Rajasthan,Defines legal provisions for minors involved in crimes.,Involves bribery and misuse of power in government offices.
+"Contract Act, 1872",312,Religious Law,Delhi,Governs contractual agreements and breach of contract cases.,Concerns legal matters governed by personal laws of different religions.
+"Factories Act, 1948",406,Business Law,Chhattisgarh,Ensures worker safety and regulates factory labor laws.,Concerns legal regulations for business operations.
+"Protection of Women from Domestic Violence Act, 2005",269,Environmental,Jharkhand,Provides protection and legal recourse for domestic abuse victims.,Deals with violations of environmental laws and pollution control.
+"Hindu Marriage Act, 1955",227,Domestic Violence,Madhya Pradesh,"Regulates marriage, divorce, and inheritance in Hindu families.","Deals with physical, emotional, and financial abuse in families."
+"Contract Act, 1872",95,Environmental Violation,Telangana,Governs contractual agreements and breach of contract cases.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Muslim Personal Law (Shariat) Application Act, 1937",167,Corporate,Bihar,Applies Islamic laws to Muslim personal matters.,Involves legal matters related to businesses and trade practices.
+"Factories Act, 1948",342,Corporate,Uttar Pradesh,Ensures worker safety and regulates factory labor laws.,Involves legal matters related to businesses and trade practices.
+"Companies Act, 2013",497,Banking Fraud,Kerala,Regulates corporate governance and business operations in India.,Covers cases of loan defaults and financial misrepresentation.
+"Consumer Protection Act, 2019",258,Civil,Odisha,Protects consumer rights and addresses unfair trade practices.,"Deals with disputes related to property, contracts, and defamation."
+"Motor Vehicles Act, 1988",131,Motor Accident,Bihar,"Regulates motor vehicle laws, accidents, and compensation.",Involves compensation claims for road accident victims.
+"Companies Act, 2013",210,Anti-Corruption,West Bengal,Regulates corporate governance and business operations in India.,Involves bribery and misuse of power in government offices.
+"Income Tax Act, 1961",496,Consumer Dispute,Karnataka,Regulates taxation on income earned in India.,Concerns cases of defective products and unfair trade practices.
+"Information Technology Act, 2000",6,Contractual,Karnataka,Addresses cybercrimes and electronic transactions.,Addresses breach of contract and non-performance issues.
+"Income Tax Act, 1961",141,Environmental Violation,Gujarat,Regulates taxation on income earned in India.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Juvenile Justice Act, 2015",297,Cybercrime,Haryana,Defines legal provisions for minors involved in crimes.,"Covers hacking, identity theft, and online fraud cases."
+"Consumer Protection Act, 2019",137,RTI Cases,West Bengal,Protects consumer rights and addresses unfair trade practices.,Involves cases where public authorities deny access to information.
+"Consumer Protection Act, 2019",257,Corporate,Karnataka,Protects consumer rights and addresses unfair trade practices.,Involves legal matters related to businesses and trade practices.
+"National Green Tribunal Act, 2010",495,Cybercrime,Gujarat,Establishes special courts for environmental disputes.,"Covers hacking, identity theft, and online fraud cases."
+"Indian Penal Code, 1860",13,RTI Cases,Andhra Pradesh,Defines criminal offenses and penalties in India.,Involves cases where public authorities deny access to information.
+"Protection of Women from Domestic Violence Act, 2005",76,Corporate,Madhya Pradesh,Provides protection and legal recourse for domestic abuse victims.,Involves legal matters related to businesses and trade practices.
+"Contract Act, 1872",80,Business Law,Kerala,Governs contractual agreements and breach of contract cases.,Concerns legal regulations for business operations.
+"National Green Tribunal Act, 2010",293,Environmental,Uttarakhand,Establishes special courts for environmental disputes.,Deals with violations of environmental laws and pollution control.
+"Banking Regulation Act, 1949",370,Consumer Dispute,Maharashtra,Governs banking policies and financial transactions.,Concerns cases of defective products and unfair trade practices.
+"Factories Act, 1948",284,Cybercrime,Karnataka,Ensures worker safety and regulates factory labor laws.,"Covers hacking, identity theft, and online fraud cases."
+"Information Technology Act, 2000",457,Arbitration,Karnataka,Addresses cybercrimes and electronic transactions.,Settles disputes outside courts through mutual agreement.
+"Motor Vehicles Act, 1988",370,Labor Dispute,Delhi,"Regulates motor vehicle laws, accidents, and compensation.",Concerns workplace disputes between employees and employers.
+"Juvenile Justice Act, 2015",196,Labor Dispute,Uttar Pradesh,Defines legal provisions for minors involved in crimes.,Concerns workplace disputes between employees and employers.
+"Indian Penal Code, 1860",95,Taxation,Jharkhand,Defines criminal offenses and penalties in India.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Civil Procedure Code, 1908",229,Business Law,Tamil Nadu,Governs civil litigation and procedures in Indian courts.,Concerns legal regulations for business operations.
+"Arbitration and Conciliation Act, 1996",110,RTI Cases,Chhattisgarh,Regulates arbitration for dispute resolution outside courts.,Involves cases where public authorities deny access to information.
+"Protection of Women from Domestic Violence Act, 2005",343,Corporate,Haryana,Provides protection and legal recourse for domestic abuse victims.,Involves legal matters related to businesses and trade practices.
+"Information Technology Act, 2000",374,Consumer Dispute,Rajasthan,Addresses cybercrimes and electronic transactions.,Concerns cases of defective products and unfair trade practices.
+"Prevention of Corruption Act, 1988",381,Consumer Dispute,Delhi,Deals with bribery and corruption among public officials.,Concerns cases of defective products and unfair trade practices.
+"Hindu Marriage Act, 1955",184,Anti-Corruption,Andhra Pradesh,"Regulates marriage, divorce, and inheritance in Hindu families.",Involves bribery and misuse of power in government offices.
+"Companies Act, 2013",471,Consumer Dispute,Odisha,Regulates corporate governance and business operations in India.,Concerns cases of defective products and unfair trade practices.
+"Environment Protection Act, 1986",219,Criminal,West Bengal,Lays down guidelines for environmental protection and pollution control.,"Involves crimes such as theft, assault, and fraud."
+"Companies Act, 2013",380,Civil,West Bengal,Regulates corporate governance and business operations in India.,"Deals with disputes related to property, contracts, and defamation."
+"Juvenile Justice Act, 2015",248,Environmental,Odisha,Defines legal provisions for minors involved in crimes.,Deals with violations of environmental laws and pollution control.
+"Right to Information Act, 2005",189,Labor Dispute,Delhi,Grants citizens access to government records and transparency.,Concerns workplace disputes between employees and employers.
+"Right to Information Act, 2005",322,Anti-Corruption,Uttar Pradesh,Grants citizens access to government records and transparency.,Involves bribery and misuse of power in government offices.
+"Hindu Marriage Act, 1955",89,Religious Law,Telangana,"Regulates marriage, divorce, and inheritance in Hindu families.",Concerns legal matters governed by personal laws of different religions.
+"Protection of Women from Domestic Violence Act, 2005",228,Environmental,Haryana,Provides protection and legal recourse for domestic abuse victims.,Deals with violations of environmental laws and pollution control.
+"Contract Act, 1872",331,Corporate,Odisha,Governs contractual agreements and breach of contract cases.,Involves legal matters related to businesses and trade practices.
+"Consumer Protection Act, 2019",499,Corporate,Karnataka,Protects consumer rights and addresses unfair trade practices.,Involves legal matters related to businesses and trade practices.
+"Motor Vehicles Act, 1988",63,Anti-Corruption,Uttar Pradesh,"Regulates motor vehicle laws, accidents, and compensation.",Involves bribery and misuse of power in government offices.
+"Motor Vehicles Act, 1988",19,Taxation,Telangana,"Regulates motor vehicle laws, accidents, and compensation.","Covers disputes regarding income tax, GST, and corporate taxation."
+"Factories Act, 1948",337,Juvenile Crime,Maharashtra,Ensures worker safety and regulates factory labor laws.,Covers criminal offenses committed by minors.
+"Factories Act, 1948",17,Motor Accident,Assam,Ensures worker safety and regulates factory labor laws.,Involves compensation claims for road accident victims.
+"Contract Act, 1872",446,Arbitration,Uttar Pradesh,Governs contractual agreements and breach of contract cases.,Settles disputes outside courts through mutual agreement.
+"Civil Procedure Code, 1908",107,Environmental Violation,Madhya Pradesh,Governs civil litigation and procedures in Indian courts.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Prevention of Corruption Act, 1988",286,Corporate,Chhattisgarh,Deals with bribery and corruption among public officials.,Involves legal matters related to businesses and trade practices.
+"Muslim Personal Law (Shariat) Application Act, 1937",434,Civil,Haryana,Applies Islamic laws to Muslim personal matters.,"Deals with disputes related to property, contracts, and defamation."
+"Information Technology Act, 2000",413,Criminal,Assam,Addresses cybercrimes and electronic transactions.,"Involves crimes such as theft, assault, and fraud."
+"Companies Act, 2013",161,RTI Cases,Bihar,Regulates corporate governance and business operations in India.,Involves cases where public authorities deny access to information.
+"Arbitration and Conciliation Act, 1996",466,Cybercrime,Tamil Nadu,Regulates arbitration for dispute resolution outside courts.,"Covers hacking, identity theft, and online fraud cases."
+"Right to Information Act, 2005",410,Arbitration,Delhi,Grants citizens access to government records and transparency.,Settles disputes outside courts through mutual agreement.
+"Juvenile Justice Act, 2015",322,Criminal,Chhattisgarh,Defines legal provisions for minors involved in crimes.,"Involves crimes such as theft, assault, and fraud."
+"National Green Tribunal Act, 2010",135,Anti-Corruption,Rajasthan,Establishes special courts for environmental disputes.,Involves bribery and misuse of power in government offices.
+"Environment Protection Act, 1986",155,Taxation,Karnataka,Lays down guidelines for environmental protection and pollution control.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Environment Protection Act, 1986",120,Business Law,Jharkhand,Lays down guidelines for environmental protection and pollution control.,Concerns legal regulations for business operations.
+"Right to Information Act, 2005",234,Religious Law,Haryana,Grants citizens access to government records and transparency.,Concerns legal matters governed by personal laws of different religions.
+"Right to Information Act, 2005",373,Cybercrime,Delhi,Grants citizens access to government records and transparency.,"Covers hacking, identity theft, and online fraud cases."
+"Indian Penal Code, 1860",295,RTI Cases,Andhra Pradesh,Defines criminal offenses and penalties in India.,Involves cases where public authorities deny access to information.
+"Protection of Women from Domestic Violence Act, 2005",189,Labor Dispute,Bihar,Provides protection and legal recourse for domestic abuse victims.,Concerns workplace disputes between employees and employers.
+"Consumer Protection Act, 2019",215,Arbitration,Maharashtra,Protects consumer rights and addresses unfair trade practices.,Settles disputes outside courts through mutual agreement.
+"Muslim Personal Law (Shariat) Application Act, 1937",152,Motor Accident,Tamil Nadu,Applies Islamic laws to Muslim personal matters.,Involves compensation claims for road accident victims.
+"Protection of Women from Domestic Violence Act, 2005",31,Environmental Violation,Haryana,Provides protection and legal recourse for domestic abuse victims.,"Involves pollution, illegal deforestation, and climate-related cases."
+"National Green Tribunal Act, 2010",270,Consumer Dispute,West Bengal,Establishes special courts for environmental disputes.,Concerns cases of defective products and unfair trade practices.
+"Contract Act, 1872",443,Environmental Violation,Karnataka,Governs contractual agreements and breach of contract cases.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Companies Act, 2013",59,Anti-Corruption,Maharashtra,Regulates corporate governance and business operations in India.,Involves bribery and misuse of power in government offices.
+"Factories Act, 1948",461,Environmental Violation,Chhattisgarh,Ensures worker safety and regulates factory labor laws.,"Involves pollution, illegal deforestation, and climate-related cases."
+"National Green Tribunal Act, 2010",399,Arbitration,Gujarat,Establishes special courts for environmental disputes.,Settles disputes outside courts through mutual agreement.
+"Hindu Marriage Act, 1955",493,Religious Law,Karnataka,"Regulates marriage, divorce, and inheritance in Hindu families.",Concerns legal matters governed by personal laws of different religions.
+"Motor Vehicles Act, 1988",238,Civil,Chhattisgarh,"Regulates motor vehicle laws, accidents, and compensation.","Deals with disputes related to property, contracts, and defamation."
+"Environment Protection Act, 1986",263,Cybercrime,Karnataka,Lays down guidelines for environmental protection and pollution control.,"Covers hacking, identity theft, and online fraud cases."
+"Arbitration and Conciliation Act, 1996",258,Family Law,Uttarakhand,Regulates arbitration for dispute resolution outside courts.,"Handles disputes related to marriage, divorce, and custody."
+"Arbitration and Conciliation Act, 1996",335,Corporate,Gujarat,Regulates arbitration for dispute resolution outside courts.,Involves legal matters related to businesses and trade practices.
+"Consumer Protection Act, 2019",493,RTI Cases,Odisha,Protects consumer rights and addresses unfair trade practices.,Involves cases where public authorities deny access to information.
+"Information Technology Act, 2000",412,Contractual,Rajasthan,Addresses cybercrimes and electronic transactions.,Addresses breach of contract and non-performance issues.
+"Information Technology Act, 2000",32,Criminal,Maharashtra,Addresses cybercrimes and electronic transactions.,"Involves crimes such as theft, assault, and fraud."
+"Arbitration and Conciliation Act, 1996",170,RTI Cases,Gujarat,Regulates arbitration for dispute resolution outside courts.,Involves cases where public authorities deny access to information.
+"Arbitration and Conciliation Act, 1996",174,Contractual,Bihar,Regulates arbitration for dispute resolution outside courts.,Addresses breach of contract and non-performance issues.
+"Factories Act, 1948",451,Consumer Dispute,Andhra Pradesh,Ensures worker safety and regulates factory labor laws.,Concerns cases of defective products and unfair trade practices.
+"Income Tax Act, 1961",305,Environmental,Madhya Pradesh,Regulates taxation on income earned in India.,Deals with violations of environmental laws and pollution control.
+"Environment Protection Act, 1986",155,RTI Cases,Gujarat,Lays down guidelines for environmental protection and pollution control.,Involves cases where public authorities deny access to information.
+"Income Tax Act, 1961",166,Environmental Violation,Karnataka,Regulates taxation on income earned in India.,"Involves pollution, illegal deforestation, and climate-related cases."
+"National Green Tribunal Act, 2010",452,Contractual,Punjab,Establishes special courts for environmental disputes.,Addresses breach of contract and non-performance issues.
+"Information Technology Act, 2000",488,RTI Cases,Madhya Pradesh,Addresses cybercrimes and electronic transactions.,Involves cases where public authorities deny access to information.
+"Right to Information Act, 2005",313,Religious Law,Maharashtra,Grants citizens access to government records and transparency.,Concerns legal matters governed by personal laws of different religions.
+"Banking Regulation Act, 1949",304,Consumer Dispute,Delhi,Governs banking policies and financial transactions.,Concerns cases of defective products and unfair trade practices.
+"Indian Penal Code, 1860",13,Consumer Dispute,Odisha,Defines criminal offenses and penalties in India.,Concerns cases of defective products and unfair trade practices.
+"Contract Act, 1872",313,Corporate,West Bengal,Governs contractual agreements and breach of contract cases.,Involves legal matters related to businesses and trade practices.
+"Environment Protection Act, 1986",474,Cybercrime,Uttar Pradesh,Lays down guidelines for environmental protection and pollution control.,"Covers hacking, identity theft, and online fraud cases."
+"Banking Regulation Act, 1949",291,Contractual,Punjab,Governs banking policies and financial transactions.,Addresses breach of contract and non-performance issues.
+"Companies Act, 2013",500,Cybercrime,Uttarakhand,Regulates corporate governance and business operations in India.,"Covers hacking, identity theft, and online fraud cases."
+"Consumer Protection Act, 2019",292,Contractual,West Bengal,Protects consumer rights and addresses unfair trade practices.,Addresses breach of contract and non-performance issues.
+"Consumer Protection Act, 2019",131,Criminal,Kerala,Protects consumer rights and addresses unfair trade practices.,"Involves crimes such as theft, assault, and fraud."
+"Muslim Personal Law (Shariat) Application Act, 1937",282,Labor Dispute,Uttar Pradesh,Applies Islamic laws to Muslim personal matters.,Concerns workplace disputes between employees and employers.
+"National Green Tribunal Act, 2010",419,Cybercrime,Delhi,Establishes special courts for environmental disputes.,"Covers hacking, identity theft, and online fraud cases."
+"Indian Penal Code, 1860",225,Environmental Violation,Gujarat,Defines criminal offenses and penalties in India.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Civil Procedure Code, 1908",404,RTI Cases,Rajasthan,Governs civil litigation and procedures in Indian courts.,Involves cases where public authorities deny access to information.
+"Prevention of Corruption Act, 1988",405,Environmental Violation,Haryana,Deals with bribery and corruption among public officials.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Muslim Personal Law (Shariat) Application Act, 1937",255,Motor Accident,Madhya Pradesh,Applies Islamic laws to Muslim personal matters.,Involves compensation claims for road accident victims.
+"Consumer Protection Act, 2019",257,Domestic Violence,Kerala,Protects consumer rights and addresses unfair trade practices.,"Deals with physical, emotional, and financial abuse in families."
+"Companies Act, 2013",178,RTI Cases,Odisha,Regulates corporate governance and business operations in India.,Involves cases where public authorities deny access to information.
+"Companies Act, 2013",429,Labor Dispute,Jharkhand,Regulates corporate governance and business operations in India.,Concerns workplace disputes between employees and employers.
+"Hindu Marriage Act, 1955",12,Labor Dispute,Chhattisgarh,"Regulates marriage, divorce, and inheritance in Hindu families.",Concerns workplace disputes between employees and employers.
+"Companies Act, 2013",132,Religious Law,Andhra Pradesh,Regulates corporate governance and business operations in India.,Concerns legal matters governed by personal laws of different religions.
+"National Green Tribunal Act, 2010",120,Consumer Dispute,Gujarat,Establishes special courts for environmental disputes.,Concerns cases of defective products and unfair trade practices.
+"Indian Penal Code, 1860",479,Environmental,Uttar Pradesh,Defines criminal offenses and penalties in India.,Deals with violations of environmental laws and pollution control.
+"Prevention of Corruption Act, 1988",71,Family Law,Rajasthan,Deals with bribery and corruption among public officials.,"Handles disputes related to marriage, divorce, and custody."
+"Income Tax Act, 1961",194,Arbitration,Madhya Pradesh,Regulates taxation on income earned in India.,Settles disputes outside courts through mutual agreement.
+"Indian Penal Code, 1860",265,Religious Law,West Bengal,Defines criminal offenses and penalties in India.,Concerns legal matters governed by personal laws of different religions.
+"Factories Act, 1948",36,Consumer Dispute,Haryana,Ensures worker safety and regulates factory labor laws.,Concerns cases of defective products and unfair trade practices.
+"Environment Protection Act, 1986",80,Contractual,Telangana,Lays down guidelines for environmental protection and pollution control.,Addresses breach of contract and non-performance issues.
+"Factories Act, 1948",294,Taxation,Andhra Pradesh,Ensures worker safety and regulates factory labor laws.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Prevention of Corruption Act, 1988",314,Labor Dispute,Rajasthan,Deals with bribery and corruption among public officials.,Concerns workplace disputes between employees and employers.
+"Banking Regulation Act, 1949",470,Taxation,Assam,Governs banking policies and financial transactions.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Civil Procedure Code, 1908",369,Motor Accident,Assam,Governs civil litigation and procedures in Indian courts.,Involves compensation claims for road accident victims.
+"Juvenile Justice Act, 2015",394,Contractual,Madhya Pradesh,Defines legal provisions for minors involved in crimes.,Addresses breach of contract and non-performance issues.
+"Motor Vehicles Act, 1988",432,Civil,Chhattisgarh,"Regulates motor vehicle laws, accidents, and compensation.","Deals with disputes related to property, contracts, and defamation."
+"Juvenile Justice Act, 2015",39,Contractual,Jharkhand,Defines legal provisions for minors involved in crimes.,Addresses breach of contract and non-performance issues.
+"Arbitration and Conciliation Act, 1996",283,Religious Law,Telangana,Regulates arbitration for dispute resolution outside courts.,Concerns legal matters governed by personal laws of different religions.
+"National Green Tribunal Act, 2010",10,Criminal,Karnataka,Establishes special courts for environmental disputes.,"Involves crimes such as theft, assault, and fraud."
+"Civil Procedure Code, 1908",333,Arbitration,Andhra Pradesh,Governs civil litigation and procedures in Indian courts.,Settles disputes outside courts through mutual agreement.
+"Protection of Women from Domestic Violence Act, 2005",112,Banking Fraud,Uttar Pradesh,Provides protection and legal recourse for domestic abuse victims.,Covers cases of loan defaults and financial misrepresentation.
+"Companies Act, 2013",67,Banking Fraud,Karnataka,Regulates corporate governance and business operations in India.,Covers cases of loan defaults and financial misrepresentation.
+"National Green Tribunal Act, 2010",10,Motor Accident,Andhra Pradesh,Establishes special courts for environmental disputes.,Involves compensation claims for road accident victims.
+"Banking Regulation Act, 1949",267,Religious Law,Chhattisgarh,Governs banking policies and financial transactions.,Concerns legal matters governed by personal laws of different religions.
+"Contract Act, 1872",139,Taxation,Kerala,Governs contractual agreements and breach of contract cases.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Hindu Marriage Act, 1955",291,Environmental,Rajasthan,"Regulates marriage, divorce, and inheritance in Hindu families.",Deals with violations of environmental laws and pollution control.
+"Arbitration and Conciliation Act, 1996",241,Banking Fraud,West Bengal,Regulates arbitration for dispute resolution outside courts.,Covers cases of loan defaults and financial misrepresentation.
+"Prevention of Corruption Act, 1988",22,Banking Fraud,Rajasthan,Deals with bribery and corruption among public officials.,Covers cases of loan defaults and financial misrepresentation.
+"Civil Procedure Code, 1908",387,Consumer Dispute,Andhra Pradesh,Governs civil litigation and procedures in Indian courts.,Concerns cases of defective products and unfair trade practices.
+"Income Tax Act, 1961",337,Arbitration,Haryana,Regulates taxation on income earned in India.,Settles disputes outside courts through mutual agreement.
+"Banking Regulation Act, 1949",112,Cybercrime,Delhi,Governs banking policies and financial transactions.,"Covers hacking, identity theft, and online fraud cases."
+"Civil Procedure Code, 1908",423,Anti-Corruption,Punjab,Governs civil litigation and procedures in Indian courts.,Involves bribery and misuse of power in government offices.
+"National Green Tribunal Act, 2010",187,Cybercrime,Karnataka,Establishes special courts for environmental disputes.,"Covers hacking, identity theft, and online fraud cases."
+"Contract Act, 1872",332,Domestic Violence,Rajasthan,Governs contractual agreements and breach of contract cases.,"Deals with physical, emotional, and financial abuse in families."
+"Indian Penal Code, 1860",325,Cybercrime,Gujarat,Defines criminal offenses and penalties in India.,"Covers hacking, identity theft, and online fraud cases."
+"National Green Tribunal Act, 2010",32,Anti-Corruption,Haryana,Establishes special courts for environmental disputes.,Involves bribery and misuse of power in government offices.
+"Juvenile Justice Act, 2015",129,Environmental Violation,Jharkhand,Defines legal provisions for minors involved in crimes.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Information Technology Act, 2000",152,Taxation,Madhya Pradesh,Addresses cybercrimes and electronic transactions.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Juvenile Justice Act, 2015",228,Banking Fraud,Tamil Nadu,Defines legal provisions for minors involved in crimes.,Covers cases of loan defaults and financial misrepresentation.
+"Banking Regulation Act, 1949",469,Religious Law,Andhra Pradesh,Governs banking policies and financial transactions.,Concerns legal matters governed by personal laws of different religions.
+"Criminal Procedure Code, 1973",205,Taxation,Tamil Nadu,Lays down the procedure for criminal trials and investigations.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Contract Act, 1872",397,Civil,Chhattisgarh,Governs contractual agreements and breach of contract cases.,"Deals with disputes related to property, contracts, and defamation."
+"Protection of Women from Domestic Violence Act, 2005",124,Corporate,Assam,Provides protection and legal recourse for domestic abuse victims.,Involves legal matters related to businesses and trade practices.
+"Income Tax Act, 1961",295,Environmental Violation,Odisha,Regulates taxation on income earned in India.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Civil Procedure Code, 1908",307,RTI Cases,Assam,Governs civil litigation and procedures in Indian courts.,Involves cases where public authorities deny access to information.
+"National Green Tribunal Act, 2010",374,Anti-Corruption,Telangana,Establishes special courts for environmental disputes.,Involves bribery and misuse of power in government offices.
+"Companies Act, 2013",321,Business Law,Jharkhand,Regulates corporate governance and business operations in India.,Concerns legal regulations for business operations.
+"Arbitration and Conciliation Act, 1996",292,RTI Cases,Telangana,Regulates arbitration for dispute resolution outside courts.,Involves cases where public authorities deny access to information.
+"Banking Regulation Act, 1949",281,Consumer Dispute,Assam,Governs banking policies and financial transactions.,Concerns cases of defective products and unfair trade practices.
+"Factories Act, 1948",205,Consumer Dispute,Andhra Pradesh,Ensures worker safety and regulates factory labor laws.,Concerns cases of defective products and unfair trade practices.
+"Environment Protection Act, 1986",251,Banking Fraud,Kerala,Lays down guidelines for environmental protection and pollution control.,Covers cases of loan defaults and financial misrepresentation.
+"Civil Procedure Code, 1908",418,Cybercrime,Rajasthan,Governs civil litigation and procedures in Indian courts.,"Covers hacking, identity theft, and online fraud cases."
+"Indian Penal Code, 1860",217,Corporate,Andhra Pradesh,Defines criminal offenses and penalties in India.,Involves legal matters related to businesses and trade practices.
+"Consumer Protection Act, 2019",71,Business Law,Maharashtra,Protects consumer rights and addresses unfair trade practices.,Concerns legal regulations for business operations.
+"Arbitration and Conciliation Act, 1996",303,Arbitration,Uttarakhand,Regulates arbitration for dispute resolution outside courts.,Settles disputes outside courts through mutual agreement.
+"Arbitration and Conciliation Act, 1996",228,Motor Accident,Uttar Pradesh,Regulates arbitration for dispute resolution outside courts.,Involves compensation claims for road accident victims.
+"Contract Act, 1872",239,Environmental,Madhya Pradesh,Governs contractual agreements and breach of contract cases.,Deals with violations of environmental laws and pollution control.
+"Prevention of Corruption Act, 1988",248,Motor Accident,Kerala,Deals with bribery and corruption among public officials.,Involves compensation claims for road accident victims.
+"Motor Vehicles Act, 1988",36,Civil,Telangana,"Regulates motor vehicle laws, accidents, and compensation.","Deals with disputes related to property, contracts, and defamation."
+"National Green Tribunal Act, 2010",169,Civil,Uttarakhand,Establishes special courts for environmental disputes.,"Deals with disputes related to property, contracts, and defamation."
+"Hindu Marriage Act, 1955",477,Domestic Violence,Punjab,"Regulates marriage, divorce, and inheritance in Hindu families.","Deals with physical, emotional, and financial abuse in families."
+"Muslim Personal Law (Shariat) Application Act, 1937",150,Consumer Dispute,Andhra Pradesh,Applies Islamic laws to Muslim personal matters.,Concerns cases of defective products and unfair trade practices.
+"Factories Act, 1948",68,Arbitration,Haryana,Ensures worker safety and regulates factory labor laws.,Settles disputes outside courts through mutual agreement.
+"Banking Regulation Act, 1949",488,Taxation,Uttar Pradesh,Governs banking policies and financial transactions.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Hindu Marriage Act, 1955",124,Domestic Violence,Punjab,"Regulates marriage, divorce, and inheritance in Hindu families.","Deals with physical, emotional, and financial abuse in families."
+"Factories Act, 1948",129,Juvenile Crime,Uttarakhand,Ensures worker safety and regulates factory labor laws.,Covers criminal offenses committed by minors.
+"Civil Procedure Code, 1908",346,Environmental,Jharkhand,Governs civil litigation and procedures in Indian courts.,Deals with violations of environmental laws and pollution control.
+"Motor Vehicles Act, 1988",317,Criminal,Gujarat,"Regulates motor vehicle laws, accidents, and compensation.","Involves crimes such as theft, assault, and fraud."
+"Criminal Procedure Code, 1973",264,Banking Fraud,Jharkhand,Lays down the procedure for criminal trials and investigations.,Covers cases of loan defaults and financial misrepresentation.
+"Prevention of Corruption Act, 1988",373,Arbitration,Assam,Deals with bribery and corruption among public officials.,Settles disputes outside courts through mutual agreement.
+"Protection of Women from Domestic Violence Act, 2005",469,Arbitration,Bihar,Provides protection and legal recourse for domestic abuse victims.,Settles disputes outside courts through mutual agreement.
+"Muslim Personal Law (Shariat) Application Act, 1937",199,Criminal,Haryana,Applies Islamic laws to Muslim personal matters.,"Involves crimes such as theft, assault, and fraud."
+"Contract Act, 1872",7,Domestic Violence,Telangana,Governs contractual agreements and breach of contract cases.,"Deals with physical, emotional, and financial abuse in families."
+"Muslim Personal Law (Shariat) Application Act, 1937",20,Anti-Corruption,Maharashtra,Applies Islamic laws to Muslim personal matters.,Involves bribery and misuse of power in government offices.
+"Consumer Protection Act, 2019",351,RTI Cases,Haryana,Protects consumer rights and addresses unfair trade practices.,Involves cases where public authorities deny access to information.
+"Hindu Marriage Act, 1955",358,Criminal,Kerala,"Regulates marriage, divorce, and inheritance in Hindu families.","Involves crimes such as theft, assault, and fraud."
+"Arbitration and Conciliation Act, 1996",120,Taxation,West Bengal,Regulates arbitration for dispute resolution outside courts.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Consumer Protection Act, 2019",371,Cybercrime,Uttarakhand,Protects consumer rights and addresses unfair trade practices.,"Covers hacking, identity theft, and online fraud cases."
+"Criminal Procedure Code, 1973",135,Family Law,Bihar,Lays down the procedure for criminal trials and investigations.,"Handles disputes related to marriage, divorce, and custody."
+"Factories Act, 1948",282,Business Law,Odisha,Ensures worker safety and regulates factory labor laws.,Concerns legal regulations for business operations.
+"National Green Tribunal Act, 2010",327,Taxation,Uttar Pradesh,Establishes special courts for environmental disputes.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Juvenile Justice Act, 2015",307,Anti-Corruption,Telangana,Defines legal provisions for minors involved in crimes.,Involves bribery and misuse of power in government offices.
+"Muslim Personal Law (Shariat) Application Act, 1937",104,Family Law,Odisha,Applies Islamic laws to Muslim personal matters.,"Handles disputes related to marriage, divorce, and custody."
+"Arbitration and Conciliation Act, 1996",102,Banking Fraud,Gujarat,Regulates arbitration for dispute resolution outside courts.,Covers cases of loan defaults and financial misrepresentation.
+"National Green Tribunal Act, 2010",245,Cybercrime,Bihar,Establishes special courts for environmental disputes.,"Covers hacking, identity theft, and online fraud cases."
+"Income Tax Act, 1961",160,Motor Accident,Karnataka,Regulates taxation on income earned in India.,Involves compensation claims for road accident victims.
+"Right to Information Act, 2005",438,Cybercrime,Karnataka,Grants citizens access to government records and transparency.,"Covers hacking, identity theft, and online fraud cases."
+"Arbitration and Conciliation Act, 1996",387,Business Law,Kerala,Regulates arbitration for dispute resolution outside courts.,Concerns legal regulations for business operations.
+"Indian Penal Code, 1860",417,Juvenile Crime,West Bengal,Defines criminal offenses and penalties in India.,Covers criminal offenses committed by minors.
+"Juvenile Justice Act, 2015",488,Domestic Violence,Odisha,Defines legal provisions for minors involved in crimes.,"Deals with physical, emotional, and financial abuse in families."
+"Contract Act, 1872",193,Motor Accident,Haryana,Governs contractual agreements and breach of contract cases.,Involves compensation claims for road accident victims.
+"Environment Protection Act, 1986",431,RTI Cases,Tamil Nadu,Lays down guidelines for environmental protection and pollution control.,Involves cases where public authorities deny access to information.
+"Muslim Personal Law (Shariat) Application Act, 1937",247,Cybercrime,Madhya Pradesh,Applies Islamic laws to Muslim personal matters.,"Covers hacking, identity theft, and online fraud cases."
+"Arbitration and Conciliation Act, 1996",319,Arbitration,Chhattisgarh,Regulates arbitration for dispute resolution outside courts.,Settles disputes outside courts through mutual agreement.
+"Factories Act, 1948",494,Anti-Corruption,Haryana,Ensures worker safety and regulates factory labor laws.,Involves bribery and misuse of power in government offices.
+"Factories Act, 1948",396,Arbitration,Madhya Pradesh,Ensures worker safety and regulates factory labor laws.,Settles disputes outside courts through mutual agreement.
+"Consumer Protection Act, 2019",149,Business Law,West Bengal,Protects consumer rights and addresses unfair trade practices.,Concerns legal regulations for business operations.
+"Civil Procedure Code, 1908",375,Taxation,Uttarakhand,Governs civil litigation and procedures in Indian courts.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Indian Penal Code, 1860",477,Business Law,Jharkhand,Defines criminal offenses and penalties in India.,Concerns legal regulations for business operations.
+"Banking Regulation Act, 1949",78,Environmental,Tamil Nadu,Governs banking policies and financial transactions.,Deals with violations of environmental laws and pollution control.
+"Protection of Women from Domestic Violence Act, 2005",340,Family Law,Madhya Pradesh,Provides protection and legal recourse for domestic abuse victims.,"Handles disputes related to marriage, divorce, and custody."
+"Companies Act, 2013",15,Environmental,West Bengal,Regulates corporate governance and business operations in India.,Deals with violations of environmental laws and pollution control.
+"Arbitration and Conciliation Act, 1996",325,Banking Fraud,Delhi,Regulates arbitration for dispute resolution outside courts.,Covers cases of loan defaults and financial misrepresentation.
+"Banking Regulation Act, 1949",465,Labor Dispute,Chhattisgarh,Governs banking policies and financial transactions.,Concerns workplace disputes between employees and employers.
+"Consumer Protection Act, 2019",34,Environmental Violation,Assam,Protects consumer rights and addresses unfair trade practices.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Environment Protection Act, 1986",297,Juvenile Crime,Delhi,Lays down guidelines for environmental protection and pollution control.,Covers criminal offenses committed by minors.
+"Income Tax Act, 1961",184,Taxation,Madhya Pradesh,Regulates taxation on income earned in India.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Income Tax Act, 1961",475,Civil,Kerala,Regulates taxation on income earned in India.,"Deals with disputes related to property, contracts, and defamation."
+"Arbitration and Conciliation Act, 1996",35,Taxation,Maharashtra,Regulates arbitration for dispute resolution outside courts.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Indian Penal Code, 1860",195,Anti-Corruption,Kerala,Defines criminal offenses and penalties in India.,Involves bribery and misuse of power in government offices.
+"Environment Protection Act, 1986",295,Family Law,Karnataka,Lays down guidelines for environmental protection and pollution control.,"Handles disputes related to marriage, divorce, and custody."
+"Muslim Personal Law (Shariat) Application Act, 1937",444,Labor Dispute,Assam,Applies Islamic laws to Muslim personal matters.,Concerns workplace disputes between employees and employers.
+"Protection of Women from Domestic Violence Act, 2005",257,Taxation,Madhya Pradesh,Provides protection and legal recourse for domestic abuse victims.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Motor Vehicles Act, 1988",361,Labor Dispute,Gujarat,"Regulates motor vehicle laws, accidents, and compensation.",Concerns workplace disputes between employees and employers.
+"Civil Procedure Code, 1908",452,Arbitration,Andhra Pradesh,Governs civil litigation and procedures in Indian courts.,Settles disputes outside courts through mutual agreement.
+"Muslim Personal Law (Shariat) Application Act, 1937",199,Cybercrime,Assam,Applies Islamic laws to Muslim personal matters.,"Covers hacking, identity theft, and online fraud cases."
+"Factories Act, 1948",259,Cybercrime,Chhattisgarh,Ensures worker safety and regulates factory labor laws.,"Covers hacking, identity theft, and online fraud cases."
+"Hindu Marriage Act, 1955",306,Business Law,Bihar,"Regulates marriage, divorce, and inheritance in Hindu families.",Concerns legal regulations for business operations.
+"Motor Vehicles Act, 1988",281,Anti-Corruption,West Bengal,"Regulates motor vehicle laws, accidents, and compensation.",Involves bribery and misuse of power in government offices.
+"Companies Act, 2013",194,Business Law,Uttarakhand,Regulates corporate governance and business operations in India.,Concerns legal regulations for business operations.
+"Muslim Personal Law (Shariat) Application Act, 1937",420,Cybercrime,Punjab,Applies Islamic laws to Muslim personal matters.,"Covers hacking, identity theft, and online fraud cases."
+"Protection of Women from Domestic Violence Act, 2005",337,Religious Law,Bihar,Provides protection and legal recourse for domestic abuse victims.,Concerns legal matters governed by personal laws of different religions.
+"Criminal Procedure Code, 1973",96,Consumer Dispute,Karnataka,Lays down the procedure for criminal trials and investigations.,Concerns cases of defective products and unfair trade practices.
+"Factories Act, 1948",249,Religious Law,Gujarat,Ensures worker safety and regulates factory labor laws.,Concerns legal matters governed by personal laws of different religions.
+"Hindu Marriage Act, 1955",21,Cybercrime,Maharashtra,"Regulates marriage, divorce, and inheritance in Hindu families.","Covers hacking, identity theft, and online fraud cases."
+"Consumer Protection Act, 2019",296,Business Law,Telangana,Protects consumer rights and addresses unfair trade practices.,Concerns legal regulations for business operations.
+"Prevention of Corruption Act, 1988",58,Cybercrime,Delhi,Deals with bribery and corruption among public officials.,"Covers hacking, identity theft, and online fraud cases."
+"Indian Penal Code, 1860",90,Corporate,Kerala,Defines criminal offenses and penalties in India.,Involves legal matters related to businesses and trade practices.
+"Information Technology Act, 2000",155,Labor Dispute,Punjab,Addresses cybercrimes and electronic transactions.,Concerns workplace disputes between employees and employers.
+"Motor Vehicles Act, 1988",348,Domestic Violence,Telangana,"Regulates motor vehicle laws, accidents, and compensation.","Deals with physical, emotional, and financial abuse in families."
+"Civil Procedure Code, 1908",115,Juvenile Crime,Maharashtra,Governs civil litigation and procedures in Indian courts.,Covers criminal offenses committed by minors.
+"Motor Vehicles Act, 1988",162,Religious Law,Uttarakhand,"Regulates motor vehicle laws, accidents, and compensation.",Concerns legal matters governed by personal laws of different religions.
+"Criminal Procedure Code, 1973",344,Corporate,Gujarat,Lays down the procedure for criminal trials and investigations.,Involves legal matters related to businesses and trade practices.
+"Arbitration and Conciliation Act, 1996",148,Banking Fraud,Rajasthan,Regulates arbitration for dispute resolution outside courts.,Covers cases of loan defaults and financial misrepresentation.
+"Information Technology Act, 2000",484,Taxation,Jharkhand,Addresses cybercrimes and electronic transactions.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Right to Information Act, 2005",8,Anti-Corruption,Haryana,Grants citizens access to government records and transparency.,Involves bribery and misuse of power in government offices.
+"Civil Procedure Code, 1908",481,Taxation,Kerala,Governs civil litigation and procedures in Indian courts.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Indian Penal Code, 1860",36,Arbitration,Madhya Pradesh,Defines criminal offenses and penalties in India.,Settles disputes outside courts through mutual agreement.
+"Criminal Procedure Code, 1973",255,Environmental,Uttar Pradesh,Lays down the procedure for criminal trials and investigations.,Deals with violations of environmental laws and pollution control.
+"Information Technology Act, 2000",426,Taxation,Rajasthan,Addresses cybercrimes and electronic transactions.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Indian Penal Code, 1860",117,Taxation,Maharashtra,Defines criminal offenses and penalties in India.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Environment Protection Act, 1986",412,Business Law,Karnataka,Lays down guidelines for environmental protection and pollution control.,Concerns legal regulations for business operations.
+"Banking Regulation Act, 1949",44,Criminal,Telangana,Governs banking policies and financial transactions.,"Involves crimes such as theft, assault, and fraud."
+"Hindu Marriage Act, 1955",211,Juvenile Crime,Haryana,"Regulates marriage, divorce, and inheritance in Hindu families.",Covers criminal offenses committed by minors.
+"Banking Regulation Act, 1949",241,Civil,Karnataka,Governs banking policies and financial transactions.,"Deals with disputes related to property, contracts, and defamation."
+"Protection of Women from Domestic Violence Act, 2005",362,Banking Fraud,Madhya Pradesh,Provides protection and legal recourse for domestic abuse victims.,Covers cases of loan defaults and financial misrepresentation.
+"Banking Regulation Act, 1949",153,Taxation,Maharashtra,Governs banking policies and financial transactions.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Banking Regulation Act, 1949",163,Civil,Jharkhand,Governs banking policies and financial transactions.,"Deals with disputes related to property, contracts, and defamation."
+"Environment Protection Act, 1986",371,Motor Accident,Andhra Pradesh,Lays down guidelines for environmental protection and pollution control.,Involves compensation claims for road accident victims.
+"National Green Tribunal Act, 2010",312,RTI Cases,Delhi,Establishes special courts for environmental disputes.,Involves cases where public authorities deny access to information.
+"Contract Act, 1872",179,Family Law,Rajasthan,Governs contractual agreements and breach of contract cases.,"Handles disputes related to marriage, divorce, and custody."
+"Companies Act, 2013",496,Environmental Violation,Gujarat,Regulates corporate governance and business operations in India.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Consumer Protection Act, 2019",207,Environmental Violation,Telangana,Protects consumer rights and addresses unfair trade practices.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Muslim Personal Law (Shariat) Application Act, 1937",74,Consumer Dispute,West Bengal,Applies Islamic laws to Muslim personal matters.,Concerns cases of defective products and unfair trade practices.
+"Factories Act, 1948",413,Business Law,Maharashtra,Ensures worker safety and regulates factory labor laws.,Concerns legal regulations for business operations.
+"Environment Protection Act, 1986",110,Arbitration,Punjab,Lays down guidelines for environmental protection and pollution control.,Settles disputes outside courts through mutual agreement.
+"Motor Vehicles Act, 1988",16,Contractual,Uttar Pradesh,"Regulates motor vehicle laws, accidents, and compensation.",Addresses breach of contract and non-performance issues.
+"Consumer Protection Act, 2019",419,Civil,Jharkhand,Protects consumer rights and addresses unfair trade practices.,"Deals with disputes related to property, contracts, and defamation."
+"Criminal Procedure Code, 1973",290,Consumer Dispute,Delhi,Lays down the procedure for criminal trials and investigations.,Concerns cases of defective products and unfair trade practices.
+"Protection of Women from Domestic Violence Act, 2005",382,Criminal,Uttar Pradesh,Provides protection and legal recourse for domestic abuse victims.,"Involves crimes such as theft, assault, and fraud."
+"Criminal Procedure Code, 1973",44,Cybercrime,Uttarakhand,Lays down the procedure for criminal trials and investigations.,"Covers hacking, identity theft, and online fraud cases."
+"Motor Vehicles Act, 1988",401,Domestic Violence,Chhattisgarh,"Regulates motor vehicle laws, accidents, and compensation.","Deals with physical, emotional, and financial abuse in families."
+"Civil Procedure Code, 1908",217,RTI Cases,Gujarat,Governs civil litigation and procedures in Indian courts.,Involves cases where public authorities deny access to information.
+"Right to Information Act, 2005",319,Religious Law,Punjab,Grants citizens access to government records and transparency.,Concerns legal matters governed by personal laws of different religions.
+"National Green Tribunal Act, 2010",480,Criminal,Odisha,Establishes special courts for environmental disputes.,"Involves crimes such as theft, assault, and fraud."
+"Banking Regulation Act, 1949",11,Labor Dispute,Assam,Governs banking policies and financial transactions.,Concerns workplace disputes between employees and employers.
+"Right to Information Act, 2005",439,Domestic Violence,Delhi,Grants citizens access to government records and transparency.,"Deals with physical, emotional, and financial abuse in families."
+"Income Tax Act, 1961",39,Corporate,Uttar Pradesh,Regulates taxation on income earned in India.,Involves legal matters related to businesses and trade practices.
+"Criminal Procedure Code, 1973",147,Civil,Madhya Pradesh,Lays down the procedure for criminal trials and investigations.,"Deals with disputes related to property, contracts, and defamation."
+"Civil Procedure Code, 1908",146,Civil,Maharashtra,Governs civil litigation and procedures in Indian courts.,"Deals with disputes related to property, contracts, and defamation."
+"Prevention of Corruption Act, 1988",474,Juvenile Crime,Odisha,Deals with bribery and corruption among public officials.,Covers criminal offenses committed by minors.
+"Environment Protection Act, 1986",140,Contractual,Uttarakhand,Lays down guidelines for environmental protection and pollution control.,Addresses breach of contract and non-performance issues.
+"Right to Information Act, 2005",270,Environmental,Karnataka,Grants citizens access to government records and transparency.,Deals with violations of environmental laws and pollution control.
+"Muslim Personal Law (Shariat) Application Act, 1937",220,Cybercrime,Haryana,Applies Islamic laws to Muslim personal matters.,"Covers hacking, identity theft, and online fraud cases."
+"Contract Act, 1872",404,RTI Cases,Tamil Nadu,Governs contractual agreements and breach of contract cases.,Involves cases where public authorities deny access to information.
+"Contract Act, 1872",351,Religious Law,Maharashtra,Governs contractual agreements and breach of contract cases.,Concerns legal matters governed by personal laws of different religions.
+"Hindu Marriage Act, 1955",184,Environmental Violation,Jharkhand,"Regulates marriage, divorce, and inheritance in Hindu families.","Involves pollution, illegal deforestation, and climate-related cases."
+"Factories Act, 1948",73,Consumer Dispute,Bihar,Ensures worker safety and regulates factory labor laws.,Concerns cases of defective products and unfair trade practices.
+"Banking Regulation Act, 1949",77,Motor Accident,Andhra Pradesh,Governs banking policies and financial transactions.,Involves compensation claims for road accident victims.
+"Arbitration and Conciliation Act, 1996",290,Anti-Corruption,Delhi,Regulates arbitration for dispute resolution outside courts.,Involves bribery and misuse of power in government offices.
+"Information Technology Act, 2000",77,Criminal,Haryana,Addresses cybercrimes and electronic transactions.,"Involves crimes such as theft, assault, and fraud."
+"Hindu Marriage Act, 1955",219,Corporate,Telangana,"Regulates marriage, divorce, and inheritance in Hindu families.",Involves legal matters related to businesses and trade practices.
+"Criminal Procedure Code, 1973",66,Environmental,Tamil Nadu,Lays down the procedure for criminal trials and investigations.,Deals with violations of environmental laws and pollution control.
+"Environment Protection Act, 1986",15,Arbitration,Telangana,Lays down guidelines for environmental protection and pollution control.,Settles disputes outside courts through mutual agreement.
+"Civil Procedure Code, 1908",420,Labor Dispute,Bihar,Governs civil litigation and procedures in Indian courts.,Concerns workplace disputes between employees and employers.
+"Banking Regulation Act, 1949",136,Business Law,Chhattisgarh,Governs banking policies and financial transactions.,Concerns legal regulations for business operations.
+"Criminal Procedure Code, 1973",177,Motor Accident,Andhra Pradesh,Lays down the procedure for criminal trials and investigations.,Involves compensation claims for road accident victims.
+"Environment Protection Act, 1986",49,Cybercrime,Tamil Nadu,Lays down guidelines for environmental protection and pollution control.,"Covers hacking, identity theft, and online fraud cases."
+"Muslim Personal Law (Shariat) Application Act, 1937",343,Consumer Dispute,Kerala,Applies Islamic laws to Muslim personal matters.,Concerns cases of defective products and unfair trade practices.
+"Consumer Protection Act, 2019",240,Religious Law,Chhattisgarh,Protects consumer rights and addresses unfair trade practices.,Concerns legal matters governed by personal laws of different religions.
+"Hindu Marriage Act, 1955",73,Environmental,Delhi,"Regulates marriage, divorce, and inheritance in Hindu families.",Deals with violations of environmental laws and pollution control.
+"Environment Protection Act, 1986",313,Motor Accident,Maharashtra,Lays down guidelines for environmental protection and pollution control.,Involves compensation claims for road accident victims.
+"Motor Vehicles Act, 1988",395,Cybercrime,Andhra Pradesh,"Regulates motor vehicle laws, accidents, and compensation.","Covers hacking, identity theft, and online fraud cases."
+"Environment Protection Act, 1986",193,Arbitration,Odisha,Lays down guidelines for environmental protection and pollution control.,Settles disputes outside courts through mutual agreement.
+"Companies Act, 2013",38,Domestic Violence,Karnataka,Regulates corporate governance and business operations in India.,"Deals with physical, emotional, and financial abuse in families."
+"Factories Act, 1948",472,Juvenile Crime,Uttar Pradesh,Ensures worker safety and regulates factory labor laws.,Covers criminal offenses committed by minors.
+"Banking Regulation Act, 1949",200,Civil,Uttarakhand,Governs banking policies and financial transactions.,"Deals with disputes related to property, contracts, and defamation."
+"Factories Act, 1948",104,Cybercrime,Punjab,Ensures worker safety and regulates factory labor laws.,"Covers hacking, identity theft, and online fraud cases."
+"Hindu Marriage Act, 1955",151,Taxation,Bihar,"Regulates marriage, divorce, and inheritance in Hindu families.","Covers disputes regarding income tax, GST, and corporate taxation."
+"Factories Act, 1948",174,Motor Accident,Maharashtra,Ensures worker safety and regulates factory labor laws.,Involves compensation claims for road accident victims.
+"Prevention of Corruption Act, 1988",413,Family Law,Kerala,Deals with bribery and corruption among public officials.,"Handles disputes related to marriage, divorce, and custody."
+"Arbitration and Conciliation Act, 1996",421,Business Law,Telangana,Regulates arbitration for dispute resolution outside courts.,Concerns legal regulations for business operations.
+"Consumer Protection Act, 2019",307,Motor Accident,Bihar,Protects consumer rights and addresses unfair trade practices.,Involves compensation claims for road accident victims.
+"Muslim Personal Law (Shariat) Application Act, 1937",76,Contractual,Telangana,Applies Islamic laws to Muslim personal matters.,Addresses breach of contract and non-performance issues.
+"Muslim Personal Law (Shariat) Application Act, 1937",205,Civil,Odisha,Applies Islamic laws to Muslim personal matters.,"Deals with disputes related to property, contracts, and defamation."
+"Civil Procedure Code, 1908",200,Environmental Violation,Andhra Pradesh,Governs civil litigation and procedures in Indian courts.,"Involves pollution, illegal deforestation, and climate-related cases."
+"National Green Tribunal Act, 2010",157,Corporate,Tamil Nadu,Establishes special courts for environmental disputes.,Involves legal matters related to businesses and trade practices.
+"Criminal Procedure Code, 1973",244,Taxation,Odisha,Lays down the procedure for criminal trials and investigations.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Right to Information Act, 2005",347,Cybercrime,Delhi,Grants citizens access to government records and transparency.,"Covers hacking, identity theft, and online fraud cases."
+"Muslim Personal Law (Shariat) Application Act, 1937",173,Contractual,Madhya Pradesh,Applies Islamic laws to Muslim personal matters.,Addresses breach of contract and non-performance issues.
+"Companies Act, 2013",328,Business Law,Odisha,Regulates corporate governance and business operations in India.,Concerns legal regulations for business operations.
+"Income Tax Act, 1961",167,Criminal,Rajasthan,Regulates taxation on income earned in India.,"Involves crimes such as theft, assault, and fraud."
+"Information Technology Act, 2000",155,Banking Fraud,Gujarat,Addresses cybercrimes and electronic transactions.,Covers cases of loan defaults and financial misrepresentation.
+"Contract Act, 1872",493,Civil,Jharkhand,Governs contractual agreements and breach of contract cases.,"Deals with disputes related to property, contracts, and defamation."
+"Prevention of Corruption Act, 1988",326,Motor Accident,Chhattisgarh,Deals with bribery and corruption among public officials.,Involves compensation claims for road accident victims.
+"Consumer Protection Act, 2019",477,Business Law,Madhya Pradesh,Protects consumer rights and addresses unfair trade practices.,Concerns legal regulations for business operations.
+"Consumer Protection Act, 2019",23,Environmental,West Bengal,Protects consumer rights and addresses unfair trade practices.,Deals with violations of environmental laws and pollution control.
+"Contract Act, 1872",312,Consumer Dispute,Assam,Governs contractual agreements and breach of contract cases.,Concerns cases of defective products and unfair trade practices.
+"National Green Tribunal Act, 2010",355,Corporate,Rajasthan,Establishes special courts for environmental disputes.,Involves legal matters related to businesses and trade practices.
+"Companies Act, 2013",371,Consumer Dispute,Jharkhand,Regulates corporate governance and business operations in India.,Concerns cases of defective products and unfair trade practices.
+"Information Technology Act, 2000",131,Labor Dispute,Andhra Pradesh,Addresses cybercrimes and electronic transactions.,Concerns workplace disputes between employees and employers.
+"Banking Regulation Act, 1949",344,Business Law,West Bengal,Governs banking policies and financial transactions.,Concerns legal regulations for business operations.
+"Juvenile Justice Act, 2015",277,Family Law,Odisha,Defines legal provisions for minors involved in crimes.,"Handles disputes related to marriage, divorce, and custody."
+"National Green Tribunal Act, 2010",96,RTI Cases,Haryana,Establishes special courts for environmental disputes.,Involves cases where public authorities deny access to information.
+"National Green Tribunal Act, 2010",406,Environmental,Karnataka,Establishes special courts for environmental disputes.,Deals with violations of environmental laws and pollution control.
+"Banking Regulation Act, 1949",333,Contractual,Madhya Pradesh,Governs banking policies and financial transactions.,Addresses breach of contract and non-performance issues.
+"Companies Act, 2013",139,Civil,Jharkhand,Regulates corporate governance and business operations in India.,"Deals with disputes related to property, contracts, and defamation."
+"Muslim Personal Law (Shariat) Application Act, 1937",288,Arbitration,Haryana,Applies Islamic laws to Muslim personal matters.,Settles disputes outside courts through mutual agreement.
+"Banking Regulation Act, 1949",37,Environmental Violation,Haryana,Governs banking policies and financial transactions.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Factories Act, 1948",35,Contractual,Uttar Pradesh,Ensures worker safety and regulates factory labor laws.,Addresses breach of contract and non-performance issues.
+"Income Tax Act, 1961",447,RTI Cases,Punjab,Regulates taxation on income earned in India.,Involves cases where public authorities deny access to information.
+"Contract Act, 1872",127,Contractual,West Bengal,Governs contractual agreements and breach of contract cases.,Addresses breach of contract and non-performance issues.
+"Contract Act, 1872",146,RTI Cases,West Bengal,Governs contractual agreements and breach of contract cases.,Involves cases where public authorities deny access to information.
+"Consumer Protection Act, 2019",345,Consumer Dispute,Haryana,Protects consumer rights and addresses unfair trade practices.,Concerns cases of defective products and unfair trade practices.
+"Arbitration and Conciliation Act, 1996",87,Contractual,Kerala,Regulates arbitration for dispute resolution outside courts.,Addresses breach of contract and non-performance issues.
+"Motor Vehicles Act, 1988",83,Taxation,Bihar,"Regulates motor vehicle laws, accidents, and compensation.","Covers disputes regarding income tax, GST, and corporate taxation."
+"Contract Act, 1872",190,Family Law,Odisha,Governs contractual agreements and breach of contract cases.,"Handles disputes related to marriage, divorce, and custody."
+"Contract Act, 1872",259,Labor Dispute,Delhi,Governs contractual agreements and breach of contract cases.,Concerns workplace disputes between employees and employers.
+"Juvenile Justice Act, 2015",35,Family Law,Punjab,Defines legal provisions for minors involved in crimes.,"Handles disputes related to marriage, divorce, and custody."
+"National Green Tribunal Act, 2010",283,Corporate,Haryana,Establishes special courts for environmental disputes.,Involves legal matters related to businesses and trade practices.
+"Prevention of Corruption Act, 1988",320,Family Law,Chhattisgarh,Deals with bribery and corruption among public officials.,"Handles disputes related to marriage, divorce, and custody."
+"Juvenile Justice Act, 2015",112,Religious Law,Jharkhand,Defines legal provisions for minors involved in crimes.,Concerns legal matters governed by personal laws of different religions.
+"Criminal Procedure Code, 1973",111,Environmental Violation,Delhi,Lays down the procedure for criminal trials and investigations.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Companies Act, 2013",87,Cybercrime,Uttar Pradesh,Regulates corporate governance and business operations in India.,"Covers hacking, identity theft, and online fraud cases."
+"Criminal Procedure Code, 1973",24,Environmental,Punjab,Lays down the procedure for criminal trials and investigations.,Deals with violations of environmental laws and pollution control.
+"Protection of Women from Domestic Violence Act, 2005",336,Juvenile Crime,Chhattisgarh,Provides protection and legal recourse for domestic abuse victims.,Covers criminal offenses committed by minors.
+"Factories Act, 1948",86,Contractual,Kerala,Ensures worker safety and regulates factory labor laws.,Addresses breach of contract and non-performance issues.
+"Motor Vehicles Act, 1988",279,Anti-Corruption,Gujarat,"Regulates motor vehicle laws, accidents, and compensation.",Involves bribery and misuse of power in government offices.
+"Indian Penal Code, 1860",128,Labor Dispute,Chhattisgarh,Defines criminal offenses and penalties in India.,Concerns workplace disputes between employees and employers.
+"National Green Tribunal Act, 2010",345,Banking Fraud,Tamil Nadu,Establishes special courts for environmental disputes.,Covers cases of loan defaults and financial misrepresentation.
+"Hindu Marriage Act, 1955",366,Arbitration,Andhra Pradesh,"Regulates marriage, divorce, and inheritance in Hindu families.",Settles disputes outside courts through mutual agreement.
+"Income Tax Act, 1961",473,Anti-Corruption,Uttar Pradesh,Regulates taxation on income earned in India.,Involves bribery and misuse of power in government offices.
+"Factories Act, 1948",83,Juvenile Crime,Assam,Ensures worker safety and regulates factory labor laws.,Covers criminal offenses committed by minors.
+"Information Technology Act, 2000",93,Criminal,Rajasthan,Addresses cybercrimes and electronic transactions.,"Involves crimes such as theft, assault, and fraud."
+"Arbitration and Conciliation Act, 1996",480,Taxation,West Bengal,Regulates arbitration for dispute resolution outside courts.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Motor Vehicles Act, 1988",333,Civil,Chhattisgarh,"Regulates motor vehicle laws, accidents, and compensation.","Deals with disputes related to property, contracts, and defamation."
+"Prevention of Corruption Act, 1988",17,Anti-Corruption,Andhra Pradesh,Deals with bribery and corruption among public officials.,Involves bribery and misuse of power in government offices.
+"Banking Regulation Act, 1949",178,Anti-Corruption,Bihar,Governs banking policies and financial transactions.,Involves bribery and misuse of power in government offices.
+"Prevention of Corruption Act, 1988",465,Family Law,Delhi,Deals with bribery and corruption among public officials.,"Handles disputes related to marriage, divorce, and custody."
+"National Green Tribunal Act, 2010",28,Environmental,Kerala,Establishes special courts for environmental disputes.,Deals with violations of environmental laws and pollution control.
+"Protection of Women from Domestic Violence Act, 2005",453,Anti-Corruption,Jharkhand,Provides protection and legal recourse for domestic abuse victims.,Involves bribery and misuse of power in government offices.
+"Income Tax Act, 1961",232,Business Law,Uttar Pradesh,Regulates taxation on income earned in India.,Concerns legal regulations for business operations.
+"Arbitration and Conciliation Act, 1996",155,RTI Cases,Uttar Pradesh,Regulates arbitration for dispute resolution outside courts.,Involves cases where public authorities deny access to information.
+"Contract Act, 1872",50,Taxation,Madhya Pradesh,Governs contractual agreements and breach of contract cases.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Banking Regulation Act, 1949",496,Domestic Violence,Odisha,Governs banking policies and financial transactions.,"Deals with physical, emotional, and financial abuse in families."
+"Prevention of Corruption Act, 1988",302,Environmental,Uttarakhand,Deals with bribery and corruption among public officials.,Deals with violations of environmental laws and pollution control.
+"Prevention of Corruption Act, 1988",387,Contractual,Punjab,Deals with bribery and corruption among public officials.,Addresses breach of contract and non-performance issues.
+"Protection of Women from Domestic Violence Act, 2005",258,Contractual,Karnataka,Provides protection and legal recourse for domestic abuse victims.,Addresses breach of contract and non-performance issues.
+"National Green Tribunal Act, 2010",60,Cybercrime,Assam,Establishes special courts for environmental disputes.,"Covers hacking, identity theft, and online fraud cases."
+"Muslim Personal Law (Shariat) Application Act, 1937",330,Motor Accident,Uttar Pradesh,Applies Islamic laws to Muslim personal matters.,Involves compensation claims for road accident victims.
+"Banking Regulation Act, 1949",94,Civil,Telangana,Governs banking policies and financial transactions.,"Deals with disputes related to property, contracts, and defamation."
+"Juvenile Justice Act, 2015",331,Taxation,Rajasthan,Defines legal provisions for minors involved in crimes.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Civil Procedure Code, 1908",472,Labor Dispute,Odisha,Governs civil litigation and procedures in Indian courts.,Concerns workplace disputes between employees and employers.
+"Income Tax Act, 1961",441,Business Law,Bihar,Regulates taxation on income earned in India.,Concerns legal regulations for business operations.
+"Information Technology Act, 2000",425,Environmental,Telangana,Addresses cybercrimes and electronic transactions.,Deals with violations of environmental laws and pollution control.
+"Protection of Women from Domestic Violence Act, 2005",481,Environmental Violation,Punjab,Provides protection and legal recourse for domestic abuse victims.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Protection of Women from Domestic Violence Act, 2005",442,Arbitration,Punjab,Provides protection and legal recourse for domestic abuse victims.,Settles disputes outside courts through mutual agreement.
+"Income Tax Act, 1961",489,Corporate,Tamil Nadu,Regulates taxation on income earned in India.,Involves legal matters related to businesses and trade practices.
+"Indian Penal Code, 1860",110,RTI Cases,Punjab,Defines criminal offenses and penalties in India.,Involves cases where public authorities deny access to information.
+"Protection of Women from Domestic Violence Act, 2005",440,Religious Law,Delhi,Provides protection and legal recourse for domestic abuse victims.,Concerns legal matters governed by personal laws of different religions.
+"Prevention of Corruption Act, 1988",177,Religious Law,Uttar Pradesh,Deals with bribery and corruption among public officials.,Concerns legal matters governed by personal laws of different religions.
+"Contract Act, 1872",352,Juvenile Crime,Assam,Governs contractual agreements and breach of contract cases.,Covers criminal offenses committed by minors.
+"Prevention of Corruption Act, 1988",436,Criminal,Maharashtra,Deals with bribery and corruption among public officials.,"Involves crimes such as theft, assault, and fraud."
+"Criminal Procedure Code, 1973",53,Juvenile Crime,Rajasthan,Lays down the procedure for criminal trials and investigations.,Covers criminal offenses committed by minors.
+"Juvenile Justice Act, 2015",334,Arbitration,Madhya Pradesh,Defines legal provisions for minors involved in crimes.,Settles disputes outside courts through mutual agreement.
+"Information Technology Act, 2000",367,Arbitration,Punjab,Addresses cybercrimes and electronic transactions.,Settles disputes outside courts through mutual agreement.
+"Civil Procedure Code, 1908",96,Corporate,Haryana,Governs civil litigation and procedures in Indian courts.,Involves legal matters related to businesses and trade practices.
+"Environment Protection Act, 1986",449,Civil,Telangana,Lays down guidelines for environmental protection and pollution control.,"Deals with disputes related to property, contracts, and defamation."
+"Companies Act, 2013",329,Corporate,Uttar Pradesh,Regulates corporate governance and business operations in India.,Involves legal matters related to businesses and trade practices.
+"Indian Penal Code, 1860",405,Environmental Violation,Delhi,Defines criminal offenses and penalties in India.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Civil Procedure Code, 1908",13,Contractual,Jharkhand,Governs civil litigation and procedures in Indian courts.,Addresses breach of contract and non-performance issues.
+"Motor Vehicles Act, 1988",480,Labor Dispute,Assam,"Regulates motor vehicle laws, accidents, and compensation.",Concerns workplace disputes between employees and employers.
+"Contract Act, 1872",249,Taxation,Rajasthan,Governs contractual agreements and breach of contract cases.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Consumer Protection Act, 2019",84,Motor Accident,Gujarat,Protects consumer rights and addresses unfair trade practices.,Involves compensation claims for road accident victims.
+"Muslim Personal Law (Shariat) Application Act, 1937",310,Environmental Violation,Andhra Pradesh,Applies Islamic laws to Muslim personal matters.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Consumer Protection Act, 2019",337,Environmental,Punjab,Protects consumer rights and addresses unfair trade practices.,Deals with violations of environmental laws and pollution control.
+"Banking Regulation Act, 1949",121,Anti-Corruption,Chhattisgarh,Governs banking policies and financial transactions.,Involves bribery and misuse of power in government offices.
+"National Green Tribunal Act, 2010",376,Civil,Haryana,Establishes special courts for environmental disputes.,"Deals with disputes related to property, contracts, and defamation."
+"Information Technology Act, 2000",52,Family Law,Bihar,Addresses cybercrimes and electronic transactions.,"Handles disputes related to marriage, divorce, and custody."
+"Arbitration and Conciliation Act, 1996",391,RTI Cases,Rajasthan,Regulates arbitration for dispute resolution outside courts.,Involves cases where public authorities deny access to information.
+"Environment Protection Act, 1986",8,Banking Fraud,Odisha,Lays down guidelines for environmental protection and pollution control.,Covers cases of loan defaults and financial misrepresentation.
+"Protection of Women from Domestic Violence Act, 2005",157,Religious Law,Madhya Pradesh,Provides protection and legal recourse for domestic abuse victims.,Concerns legal matters governed by personal laws of different religions.
+"Banking Regulation Act, 1949",51,Religious Law,Assam,Governs banking policies and financial transactions.,Concerns legal matters governed by personal laws of different religions.
+"Muslim Personal Law (Shariat) Application Act, 1937",255,Corporate,Telangana,Applies Islamic laws to Muslim personal matters.,Involves legal matters related to businesses and trade practices.
+"Motor Vehicles Act, 1988",43,Cybercrime,Assam,"Regulates motor vehicle laws, accidents, and compensation.","Covers hacking, identity theft, and online fraud cases."
+"Juvenile Justice Act, 2015",448,Environmental Violation,Chhattisgarh,Defines legal provisions for minors involved in crimes.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Juvenile Justice Act, 2015",162,Cybercrime,Uttar Pradesh,Defines legal provisions for minors involved in crimes.,"Covers hacking, identity theft, and online fraud cases."
+"Civil Procedure Code, 1908",13,Consumer Dispute,Karnataka,Governs civil litigation and procedures in Indian courts.,Concerns cases of defective products and unfair trade practices.
+"Factories Act, 1948",21,Environmental Violation,Assam,Ensures worker safety and regulates factory labor laws.,"Involves pollution, illegal deforestation, and climate-related cases."
+"Companies Act, 2013",81,Environmental,West Bengal,Regulates corporate governance and business operations in India.,Deals with violations of environmental laws and pollution control.
+"Motor Vehicles Act, 1988",500,Banking Fraud,Uttarakhand,"Regulates motor vehicle laws, accidents, and compensation.",Covers cases of loan defaults and financial misrepresentation.
+"Banking Regulation Act, 1949",422,Contractual,Tamil Nadu,Governs banking policies and financial transactions.,Addresses breach of contract and non-performance issues.
+"Companies Act, 2013",386,Environmental,Madhya Pradesh,Regulates corporate governance and business operations in India.,Deals with violations of environmental laws and pollution control.
+"Prevention of Corruption Act, 1988",112,Contractual,Madhya Pradesh,Deals with bribery and corruption among public officials.,Addresses breach of contract and non-performance issues.
+"Prevention of Corruption Act, 1988",106,Religious Law,Tamil Nadu,Deals with bribery and corruption among public officials.,Concerns legal matters governed by personal laws of different religions.
+"Muslim Personal Law (Shariat) Application Act, 1937",124,Taxation,Jharkhand,Applies Islamic laws to Muslim personal matters.,"Covers disputes regarding income tax, GST, and corporate taxation."
+"Contract Act, 1872",445,Business Law,Jharkhand,Governs contractual agreements and breach of contract cases.,Concerns legal regulations for business operations.
+"Prevention of Corruption Act, 1988",64,Labor Dispute,Andhra Pradesh,Deals with bribery and corruption among public officials.,Concerns workplace disputes between employees and employers.
+"Prevention of Corruption Act, 1988",331,Family Law,Odisha,Deals with bribery and corruption among public officials.,"Handles disputes related to marriage, divorce, and custody."
+"Criminal Procedure Code, 1973",5,Criminal,Andhra Pradesh,Lays down the procedure for criminal trials and investigations.,"Involves crimes such as theft, assault, and fraud."
+"Hindu Marriage Act, 1955",114,Anti-Corruption,Madhya Pradesh,"Regulates marriage, divorce, and inheritance in Hindu families.",Involves bribery and misuse of power in government offices.
+"Criminal Procedure Code, 1973",238,Cybercrime,Kerala,Lays down the procedure for criminal trials and investigations.,"Covers hacking, identity theft, and online fraud cases."
+"Information Technology Act, 2000",162,Banking Fraud,Bihar,Addresses cybercrimes and electronic transactions.,Covers cases of loan defaults and financial misrepresentation.
+"Factories Act, 1948",258,Environmental Violation,Chhattisgarh,Ensures worker safety and regulates factory labor laws.,"Involves pollution, illegal deforestation, and climate-related cases."
